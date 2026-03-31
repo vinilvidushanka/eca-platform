@@ -66,7 +66,12 @@ Applications are managed by PM2 to ensure reliability and process-level fault to
 | Auto restart on failure | YES |
 | PM2 starts on VM reboot | YES |
 
-## 8. How to Clone This Repository
+## 8. Screen Recording Submission (Mandatory)
+
+* **Recording URL**: https://drive.google.com/file/d/12L4fkenJXVYBrzwBsfufipEPKwNqd9bQ/view?usp=drive_link
+
+## 9. How to Clone This Repository
 
 ```bash
 git clone --recurse-submodules [https://github.com/vinilvidushanka/eca-platform.git](https://github.com/vinilvidushanka/eca-platform.git)
+```
