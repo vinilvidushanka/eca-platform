@@ -7,3 +7,6 @@
 [submodule "gateway-server"]
 	path = gateway-server
 	url = https://github.com/vinilvidushanka/API-Gateway-GoDrive.git
+[submodule "config-repo"]
+	path = config-repo
+	url = https://github.com/vinilvidushanka/GoDrive-Config-Repo.git
