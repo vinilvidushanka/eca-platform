@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/vinilvidushanka/Config-Server-GoDrive.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/vinilvidushanka/Eureka-Server-GoDrive.git
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/vinilvidushanka/API-Gateway-GoDrive.git
